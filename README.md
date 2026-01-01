@@ -16,7 +16,7 @@ https://imgur.com/Yvp5WG7
 https://imgur.com/yEVrIJ8
 
 4) Add/Edit password for MD5 verification of posts, and/or Add/Edit Posturls<br>
-- https://imgur.com/MgjbQSC
+https://imgur.com/MgjbQSC
 
 5) Post to autopay.cgi<br>
-- https://imgur.com/W4gQdmz
+https://imgur.com/W4gQdmz
