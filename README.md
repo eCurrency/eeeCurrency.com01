@@ -6,17 +6,17 @@ eeeCurrency Auto Pay Transactions
 
 All images - https://imgur.com/a/bEwdbrM
 
-1) Main Menu> Tools> Learn how to do AUTOPAY transactions here.<br>
+1) Main Menu> Tools> Learn how to do AUTOPAY transactions here<br>
 https://imgur.com/pZVOnc7
 
-2) To do AUTOPAY transactions
- https://imgur.com/Yvp5WG7
+2) To do AUTOPAY transactions<br>
+https://imgur.com/Yvp5WG7
 
-3) MD5 verification/Post URLS/Result Codes/Example scripts
-- https://imgur.com/yEVrIJ8
+3) MD5 verification/Post URLS/Result Codes/Example scripts<br>
+https://imgur.com/yEVrIJ8
 
-4) Add/Edit password for MD5 verification of posts, and/or Add/Edit Posturls
+4) Add/Edit password for MD5 verification of posts, and/or Add/Edit Posturls<br>
 - https://imgur.com/MgjbQSC
 
-5) Post to autopay.cgi
+5) Post to autopay.cgi<br>
 - https://imgur.com/W4gQdmz
