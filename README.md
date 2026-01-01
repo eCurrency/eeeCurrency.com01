@@ -2,9 +2,9 @@ Last update 1/1/2026
 
 eeeCurrency Auto Pay Transactions
 
-[This document is currently under construction]
-https://rentry.co/eeeCurrency/
-https://github.com/eCurrency/eeeCurrency.com01/blob/main/README.md
+[This document is currently under construction]<br>
+https://rentry.co/eeeCurrency/<br>
+https://github.com/eCurrency/eeeCurrency.com01/blob/main/README.md<br>
 
 All images - https://imgur.com/a/bEwdbrM
 
