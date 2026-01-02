@@ -6,6 +6,10 @@ eeeCurrency Auto Pay Transactions
 https://rentry.co/eeeCurrency/<br>
 https://github.com/eCurrency/eeeCurrency.com01/blob/main/README.md<br>
 
+https://drive.google.com/drive/folders/1fDiI588rBrdX8fJcdXeAUnjsH2kO0Cp_ -  (files}
+
+-----<br>
+
 All images - https://imgur.com/a/bEwdbrM<br>
 
 1) Main Menu> Tools> Learn how to do AUTOPAY transactions here<br>
