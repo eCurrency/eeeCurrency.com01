@@ -1,4 +1,4 @@
-Last update 1/1/2026<br>
+Last update 01/03/2026<br>
 
 eeeCurrency Auto Pay Transactions<br>
 
@@ -6,7 +6,7 @@ eeeCurrency Auto Pay Transactions<br>
 https://rentry.co/eeeCurrency/<br>
 https://github.com/eCurrency/eeeCurrency.com01/blob/main/README.md<br>
 
-https://drive.google.com/drive/u/1/folders/1N5jKOmb6R2Q8A_5cBB2ZQH4wuZ6OiAAk -  (files - updated: 01/03/2025)<br>
+https://drive.google.com/drive/u/1/folders/1N5jKOmb6R2Q8A_5cBB2ZQH4wuZ6OiAAk -  (files - updated: 01/03/2026)<br>
 
 -----<br>
 
